@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m Akash!
-### I specialize in ML/DL/AI and always upskilling in other aspects.
+#### I specialize in ML/DL/AI and always upskilling in other aspects.
 Give me a task and time. Sit back and let me cook.
 
 
