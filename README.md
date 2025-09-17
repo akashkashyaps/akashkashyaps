@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Akash!
-#### I specialize in ML/DL/AI and always upskilling in other aspects.
-Give me a task and time. Sit back and let me cook.
+#### I specialize in Traditional ML and Generative AI.
+My main skill is getting the job done. Tell me your requirements and I'll figure out a way to achieve the outcome.
 
 
 <!---
