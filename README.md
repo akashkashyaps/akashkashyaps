@@ -7,25 +7,31 @@
   </a>
 </p>
 
----
-
-### About me
-- AI Researcher and Engineer working on agentic and multimodal LLM systems
-- Experience across academic research and industry projects
-- Interests include LLM evaluation, RAG, Knowledge Graphs, and AI safety
-- Focused on building reliable, deployable, real-world AI systems
-- Domains so far: Education, Biomedical, Linguistics
+<p align="center">
+  <em>AI Researcher and Engineer working on agentic and multimodal LLM systems</em>
+</p>
 
 ---
 
-### Tools and technologies
+## About
+
+I work at the intersection of research and applied AI, focusing on building systems that reason, interact with tools, and remain reliable outside controlled settings.
+
+- Experience across academic research and industry projects  
+- Interests include LLM evaluation, RAG, Knowledge Graphs, and AI safety  
+- Strong focus on deployability, robustness, and real-world constraints  
+- Domains explored so far include Education, Biomedical AI, and Linguistics  
+
+---
+
+## Tools and technologies
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,pytorch,docker,fastapi,linux,azure,git" />
 </p>
 
 <p align="left">
-  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" height="38" alt="Hugging Face" style="margin-right:14px;"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" height="38" alt="Hugging Face" style="margin-right:16px;"/>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/langchain-ai/langchain/master/.github/images/logo-light.svg">
@@ -34,15 +40,21 @@
   </picture>
 </p>
 
+---
 
+## Publications
+
+- **Retrieval Augmented Large Language Model Chatbots in Higher Education**  
+  UKCI 2024 · Springer  
+  [DOI](https://doi.org/10.1007/978-3-031-78857-4_3)
 
 ---
 
-### Publications
-- Retrieval Augmented Large Language Model Chatbots in Higher Education. UKCI 2024. [DOI](https://doi.org/10.1007/978-3-031-78857-4_3)
----
-
-If you are building something serious and need someone who can take it from idea to production, feel free to reach out.
+<p align="center">
+  <em>
+    If you are building something serious and need someone who can take it from idea to production, feel free to reach out.
+  </em>
+</p>
 
 
 
