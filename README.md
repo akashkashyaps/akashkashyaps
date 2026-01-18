@@ -1,5 +1,4 @@
-<h2 align="center">Hi there</h2>
-<h1 align="center">I’m Akash Kashyap</h1>
+<h1 align="center">Hi there, I’m Akash Kashyap</h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/akashkashyaps">
@@ -20,7 +19,9 @@ I work at the intersection of research and applied AI, focusing on building syst
 - Experience across academic research and industry projects  
 - Interests include LLM evaluation, RAG, Knowledge Graphs, and AI safety  
 - Strong focus on deployability, robustness, and real-world constraints  
-- Domains explored so far include Education, Biomedical AI, and Linguistics  
+- Domains explored so far include Education, Biomedical AI, and Linguistics
+
+If you are building something serious and need someone who can take it from idea to production, feel free to reach out.
 
 ---
 
@@ -50,11 +51,6 @@ I work at the intersection of research and applied AI, focusing on building syst
 
 ---
 
-<p align="center">
-  <em>
-    If you are building something serious and need someone who can take it from idea to production, feel free to reach out.
-  </em>
-</p>
 
 
 
