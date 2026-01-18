@@ -19,9 +19,16 @@
 ---
 
 ### Tools and technologies
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,azure,docker,fastapi,langchain,huggingface,git" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,docker,fastapi,linux,azure,git" />
 </p>
+
+<p align="left">
+  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain_logo.png" height="40"/>
+</p>
+
 
 ---
 
