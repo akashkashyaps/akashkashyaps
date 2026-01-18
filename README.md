@@ -5,35 +5,33 @@
   <a href="https://linkedin.com/in/akashkashyaps">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:akashkashyapshanthakumar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
 </p>
 
 ---
 
 ### About me
 - AI Researcher and Engineer working on agentic and multimodal LLM systems
-- Experience across academic research, startups, and industry projects
+- Experience across academic research and industry projects
 - Interests include LLM evaluation, RAG, Knowledge Graphs, and AI safety
 - Focused on building reliable, deployable, real-world AI systems
+- Domains so far: Education, Biomedical, Linguistics
 
 ---
 
-### Languages and Tools
+### Tools and technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,docker,fastapi,linux,azure,git" />
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,sqlite,react,ts" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,azure,docker,fastapi,langchain,huggingface,git" />
 </p>
 
 ---
 
-### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akashkashyaps&show_icons=true&theme=tokyonight" />
-</p>
+### Publications
+- Retrieval Augmented Large Language Model Chatbots in Higher Education. UKCI 2024. [DOI](https://doi.org/10.1007/978-3-031-78857-4_3)
+---
+
+If you are building something serious and need someone who can take it from idea to production, feel free to reach out.
+
+
 
 
 
