@@ -22,14 +22,18 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,pytorch,docker,fastapi,linux,azure,git" />
+</p>
 
 <p align="left">
-  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain_logo.png" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/langchain-ai/langchain/docs/static/img/langchain.svg" height="38"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" height="38" alt="Hugging Face" style="margin-right:14px;"/>
 
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/langchain-ai/langchain/master/.github/images/logo-light.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/langchain-ai/langchain/master/.github/images/logo-dark.svg">
+    <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/.github/images/logo-dark.svg" height="38" alt="LangChain"/>
+  </picture>
 </p>
+
 
 
 ---
